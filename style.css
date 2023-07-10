@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+
+.heading{
+    font-size: 20px;
+    border-radius: 20px;
+    width: 90%;
+}
+
+#song_name{
+    font-size:15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
